@@ -12,4 +12,13 @@
 ## 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-555?style=flat&logo=GitHub)&nbsp;
+![Anaconda](https://img.shields.io/badge/-Anaconda-555?style=flat&logo=Anaconda)&nbsp;
+![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
+
+![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
+
+![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
+
 
