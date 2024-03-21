@@ -12,11 +12,27 @@
 ## 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=Pandas)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-555?style=flat&)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-555?style=flat&)&nbsp;
 ![plotly](https://img.shields.io/badge/-plotly-555?style=flat&logo=plotly)&nbsp;
 ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-555?style=flat&logo=Scikitlearn)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-555?style=flat&logo=GitHub)&nbsp;
 ![visualstudio](https://img.shields.io/badge/-visualstudio-555?style=flat&logo=visualstudio)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-555?style=flat&logo=Anaconda)&nbsp;
 ![Jupyterlab](https://img.shields.io/badge/-JupyterLab-555?style=flat&logo=Jupyter)&nbsp;
+
+
+## 📈 GitHub Activity Graph:
+
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/Arefahmadpoor#-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Arefahmadpoor&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Arefahmadpoor-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Arefahmadpoor&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    <tr>
+        <td align="center"><a href="https://github.com/MahdiyarGHD#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiyarGHD&theme=default"/></a><a href="https://github.com/MahdiyarGHD#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiyarGHD&theme=tokyonight"/></a></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><a href="https://github.com/MahdiyarGHD#gh-light-mode-only"><img src="https://raw.githubusercontent.com/MahdiyarGHD/MahdiyarGHD/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/MahdiyarGHD#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/MahdiyarGHD/MahdiyarGHD/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+</table> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
