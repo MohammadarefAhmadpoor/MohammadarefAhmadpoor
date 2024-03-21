@@ -16,5 +16,6 @@
 ![plotly](https://img.shields.io/badge/-plotly-555?style=flat&logo=plotly)&nbsp;
 ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-555?style=flat&logo=Scikitlearn)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-555?style=flat&logo=GitHub)&nbsp;
+![visualstudio](https://img.shields.io/badge/-visualstudio-555?style=flat&logo=visualstudio)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-555?style=flat&logo=Anaconda)&nbsp;
-![JupyterLab](https://img.shields.io/badge/-JupyterLab-555?style=flat&logo=Jupyter)&nbsp;
+![Jupyterlab](https://img.shields.io/badge/-JupyterLab-555?style=flat&logo=Jupyter)&nbsp;
