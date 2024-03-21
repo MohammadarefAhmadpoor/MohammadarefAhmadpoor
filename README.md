@@ -26,5 +26,5 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arefahmadpoor&theme=dark&mode=weekly)](https://git.io/streak-stats)
-![Aref](https://github-readme-stats.vercel.app/apiArefahmadpooranuraghazra&show_icons=true&theme=vision-friendly-dark_icons=true)
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=vision-friendly-dark_icons=true)
+![Aref's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arefahmadpoor&theme=vision-friendly-dark_icons=true)
+
