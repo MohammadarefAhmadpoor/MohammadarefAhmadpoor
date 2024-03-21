@@ -11,4 +11,5 @@
 
 ## 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
+![Github](https://img.shields.io/badge/-Github-555?style=flat&logo=GitHub)&nbsp;
 
