@@ -25,6 +25,6 @@
 ## 📈 GitHub Activity Graph:
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arefahmadpoor&theme=dark&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arefahmadpoor&theme=vision-friendly-dark&mode=weekly)](https://git.io/streak-stats)
 ![My stats](https://github-readme-stats.vercel.app/api?username=Arefahmadpoor&theme=vision-friendly-dark&show_icons=true)
 
