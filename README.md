@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-555?style=flat&logo=GitHub)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-555?style=flat&logo=Anaconda)&nbsp;
-![JupyterLab](https://img.shields.io/badge/-JupyterLab-555?style=flat&logo=JupyterLab)&nbsp;
+![JupyterLab](https://img.shields.io/badge/-JupyterLab-555?style=flat&logo=Jupyter)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
