@@ -25,5 +25,5 @@
 ## 📈 GitHub Activity Graph:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Arefahmadpoor&theme=vision-friendly-dark&mode=weekly&card_width=390)](https://git.io/streak-stats)
-![My stats](https://github-readme-stats.vercel.app/api?username=Arefahmadpoor&theme=vision-friendly-dark&show_icons=true)
+![My stats](https://github-readme-stats.vercel.app/api?username=Arefahmadpoor&theme=vision-friendly-dark&show_icons=true_width=390)
 
