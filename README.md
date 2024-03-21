@@ -12,6 +12,7 @@
 ## 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=Pandas)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-555?style=flat&)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;
 ![plotly](https://img.shields.io/badge/-plotly-555?style=flat&logo=plotly)&nbsp;
 ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-555?style=flat&logo=Scikitlearn)&nbsp;
