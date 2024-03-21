@@ -11,13 +11,10 @@
 
 ## 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=Pandas)&nbsp;
+![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;
+![plotly](https://img.shields.io/badge/-plotly-555?style=flat&logo=plotly)&nbsp;
+![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-555?style=flat&logo=Scikitlearn)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-555?style=flat&logo=GitHub)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-555?style=flat&logo=Anaconda)&nbsp;
 ![JupyterLab](https://img.shields.io/badge/-JupyterLab-555?style=flat&logo=Jupyter)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=Pandas)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;
-![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
-
-![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
-
-
