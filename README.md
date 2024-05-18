@@ -14,12 +14,12 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=Pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-555?style=flat&)&nbsp;
-![plotly](https://img.shields.io/badge/-plotly-555?style=flat&logo=plotly)&nbsp;
+![Plotly](https://img.shields.io/badge/-plotly-555?style=flat&logo=Plotly)&nbsp;
 ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-555?style=flat&logo=Scikitlearn)&nbsp;
-![Tesorflow](https://img.shields.io/badge/-tensorflow-555?style=flat&logo=tensorflow)&nbsp;
-![Pytorch](https://img.shields.io/badge/-pytorch-555?style=flat&logo=pytorch)&nbsp;
+![Tesorflow](https://img.shields.io/badge/-tensorflow-555?style=flat&logo=Tensorflow)&nbsp;
+![Pytorch](https://img.shields.io/badge/-pytorch-555?style=flat&logo=Pytorch)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-555?style=flat&logo=GitHub)&nbsp;
-![visualstudio](https://img.shields.io/badge/-visualstudio-555?style=flat&logo=visualstudio)&nbsp;
+![visualstudio](https://img.shields.io/badge/-visualstudio-555?style=flat&logo=Visualstudio)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-555?style=flat&logo=Anaconda)&nbsp;
 ![Jupyterlab](https://img.shields.io/badge/-JupyterLab-555?style=flat&logo=Jupyter)&nbsp;
 
