@@ -16,6 +16,8 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-555?style=flat&)&nbsp;
 ![plotly](https://img.shields.io/badge/-plotly-555?style=flat&logo=plotly)&nbsp;
 ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-555?style=flat&logo=Scikitlearn)&nbsp;
+![Tesorflow](https://img.shields.io/badge/-Tesorflow-555?style=flat&logo=Tesorflow)&nbsp;
+![Pytorch](https://img.shields.io/badge/-pytorch-555?style=flat&logo=pytorch)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-555?style=flat&logo=GitHub)&nbsp;
 ![visualstudio](https://img.shields.io/badge/-visualstudio-555?style=flat&logo=visualstudio)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-555?style=flat&logo=Anaconda)&nbsp;
