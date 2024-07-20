@@ -1,4 +1,4 @@
-# Mohammadaref Ahmapoor
+# Hi there I'm Mohammadaref Ahmapoor
 [![](./file/header.png)](#)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMohammadarefAhmadpoor&count_bg=%2370DC1E&title_bg=%23262E2E&icon=github.svg&icon_color=%23FFFFFF&title=+&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mohammadarefahmadpoor@gmail.com)
 [![Github](https://img.shields.io/github/followers/MohammadarefAhmadpoor?label=Follow&style=social)](https://github.com/MohammadarefAhmadpoor)
 
-> Highly motivated and self-taught individual with an educational background in Artificial Intelligence, specializing in data science and machine learning. Proficient in Python programming and experienced in utilizing GitHub and Kaggle for project development and collaboration. Adept at problem-solving, research, and working effectively in a team. Published a bachelor thesis at an esteemed scientific conference. Possesses excellent attention to detail and a strong sense of responsibility.Graduated with a degree in Computer Engineering from Hakim Sabzevari University. Familiarity with deep learning, natural language processing (NLP), computer vision, and TensorFlow. Fluent in English.
+> Highly motivated and self-taught individual with a practical background in Artificial Intelligence for almost 3 years, proficient in data science, machine learning, deep learning, python programming and experienced in utilizing GitHub for project development and collaboration.
 
 
 ## 🛠️ Tech Stack:
