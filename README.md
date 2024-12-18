@@ -24,8 +24,12 @@
 ![Jupyterlab](https://img.shields.io/badge/-JupyterLab-555?style=flat&logo=Jupyter)&nbsp;
 
 
-## 📈 GitHub Activity Graph:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadarefAhmadpoor&show_icons=true&theme=monokai" alt="Pooya Mohammadi's GitHub stats" /><br />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadarefAhmadpoor&hide=jupyter%20notebook&theme=monokai&langs_count=10&layout=compact" alt="Pooya Mohammadi's GitHub stats" /><br />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MohammadarefAhmadpoor&theme=vision-friendly-dark&mode=weekly&card_width=465)](https://git.io/streak-stats)
 ![](https://komarev.com/ghpvc/?username=MohammadarefAhmadpoor&color=green)
 
