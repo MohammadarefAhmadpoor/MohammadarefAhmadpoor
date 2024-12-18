@@ -27,5 +27,5 @@
 ## 📈 GitHub Activity Graph:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MohammadarefAhmadpoor&theme=vision-friendly-dark&mode=weekly&card_width=465)](https://git.io/streak-stats)
-![My stats](https://github-readme-stats.vercel.app/api?username=MohammadarefAhmadpoor&theme=vision-friendly-dark&show_icons=true)
+![](https://komarev.com/ghpvc/?username=MohammadarefAhmadpoor&color=green)
 
