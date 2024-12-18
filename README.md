@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/mohammadaref-ahmadpoor/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mohammadarefahmadpoor@gmail.com)
 <!---[![Github](https://img.shields.io/github/followers/MohammadarefAhmadpoor?label=Follow&style=social)](https://github.com/MohammadarefAhmadpoor) --->
-> Highly motivated and self-taught individual with a practical background in Artificial Intelligence for almost 3 years, proficient in data science, machine learning, deep learning, python programming and experienced in utilizing GitHub for project development and collaboration.
+ Highly motivated and self-taught individual with a practical background in Artificial Intelligence for almost 3 years, proficient in data science, machine learning, deep learning, python programming and experienced in utilizing GitHub for project development and collaboration.
 
 
 ## 🛠️ Tech Stack:
