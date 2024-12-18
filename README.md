@@ -24,7 +24,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadarefAhmadpoor&show_icons=true&theme=monokai" alt="Pooya Mohammadi's GitHub stats" /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadarefAhmadpoor&show_icons=true&theme=monokai" alt="Aref's GitHub stats" /><br />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadarefAhmadpoor&hide=jupyter%20notebook&theme=monokai&langs_count=10&layout=compact" alt="Aref's GitHub stats" /><br />
